@@ -6,6 +6,8 @@ using TechTalk.SpecFlow;
 using WebDriverManager.DriverConfigs.Impl;
 
 namespace goSelenium.StepDefinitions
+
+    //dummy change
 {
     [Binding]
     public class SeleniumDemoSteps
@@ -69,3 +71,4 @@ namespace goSelenium.StepDefinitions
         }
     }
 }
+
