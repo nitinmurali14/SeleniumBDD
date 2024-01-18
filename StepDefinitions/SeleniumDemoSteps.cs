@@ -7,7 +7,7 @@ using WebDriverManager.DriverConfigs.Impl;
 
 namespace goSelenium.StepDefinitions
 
-    //dummy change
+    //dummy change 2
 {
     [Binding]
     public class SeleniumDemoSteps
